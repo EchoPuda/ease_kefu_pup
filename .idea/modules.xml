@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ease_kefu.iml" filepath="$PROJECT_DIR$/ease_kefu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ease_kefu_android.iml" filepath="$PROJECT_DIR$/android/ease_kefu_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/ease_kefu_example_android.iml" filepath="$PROJECT_DIR$/example/android/ease_kefu_example_android.iml" />
+    </modules>
+  </component>
+</project>

@@ -280,6 +280,25 @@ class TestHomeState extends State<TestHome> {
                     ),
                   ),
                 ),
+
+                GestureDetector(
+                  onTap: () {
+
+                  },
+                  child: Container(
+                    width: double.maxFinite,
+                    height: 30,
+                    margin: EdgeInsets.symmetric(vertical: 10),
+                    alignment: Alignment.center,
+                    color: Colors.lightGreen,
+                    child: Text(
+                      "聊天窗口",
+                      style: TextStyle(
+                          color: Colors.white
+                      ),
+                    ),
+                  ),
+                ),
               ],
             ),
           )
